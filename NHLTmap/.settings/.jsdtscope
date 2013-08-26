@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="GeoExt/trunk/lib/GeoExt/widgets/|ext-3.0.0/src/locale/|ext-3.0.0/examples/organizer/|ext-3.0.0/src/core/|ext-3.0.0/examples/dd/|ext-3.0.0/src/widgets/menu/|ext-3.0.0/examples/chart/|ext-3.0.0/src/widgets/grid/|GeoExt/trunk/lib/GeoExt/widgets/tree/|GeoExt/script/|ext-3.0.0/src/widgets/|ext-3.0.0/examples/image-organizer/SWFUpload/|GeoExt/trunk/lib/GeoExt/widgets/grid/|GeoExt/trunk/tests/lib/GeoExt/plugins/|GeoExt/trunk/lib/GeoExt/|ext-3.0.0/examples/tasks/|ext-3.0.0/src/|ext-3.0.0/adapter/prototype/|ext-3.0.0/examples/grouptabs/|ext-3.0.0/examples/desktop/js/|ext-3.0.0/examples/grid/|ext-3.0.0/examples/image-organizer/SWFUpload/plugins/|ext-3.0.0/src/adapter/core/|ext-3.0.0/examples/button/|ext-3.0.0/examples/simple-widgets/|ext-3.0.0/examples/menu/|GeoExt/trunk/build/|ext-3.0.0/examples/restful/|ext-3.0.0/src/state/|ext-3.0.0/src/widgets/tips/|ext-3.0.0/examples/view/|ext-3.0.0/src/core/core/|GeoExt/trunk/tests/|ext-3.0.0/adapter/ext/|ext-3.0.0/docs/output/|ext-3.0.0/examples/resizable/|ext-3.0.0/examples/feed-viewer/|ext-3.0.0/|ext-3.0.0/examples/form/|GeoExt/trunk/lib/GeoExt/data/|ext-3.0.0/examples/spinner/|ext-3.0.0/examples/tasks/db/|ext-3.0.0/src/widgets/chart/|ext-3.0.0/examples/writer/|ext-3.0.0/docs/resources/|ext-3.0.0/examples/toolbar/|ext-3.0.0/src/util/|ext-3.0.0/examples/ux/|ext-3.0.0/examples/locale/|ext-3.0.0/examples/window/|ext-3.0.0/examples/layout-browser/layouts/|ext-3.0.0/src/widgets/list/|ext-3.0.0/examples/direct/|ext-3.0.0/examples/image-organizer/imgorg/|ext-3.0.0/examples/tabs/|GeoExt/trunk/lib/overrides/|ext-3.0.0/src/data/|GeoExt/trunk/lib/GeoExt/widgets/tips/|GeoExt/trunk/lib/GeoExt/widgets/form/|GeoExt/trunk/lib/GeoExt/plugins/|ext-3.0.0/docs/resources/prettify/|archive/|ext-3.0.0/examples/portal/|ext-3.0.0/src/direct/|GeoExt/trunk/lib/|ext-3.0.0/examples/|ext-3.0.0/src/widgets/layout/|ext-3.0.0/adapter/yui/|ext-3.0.0/examples/shared/extjs/|ext-3.0.0/examples/forum/|ext-3.0.0/examples/statusbar/|GeoExt/trunk/examples/|ext-3.0.0/examples/tree/|ext-3.0.0/src/data/core/|ext-3.0.0/examples/slider/|ext-3.0.0/src/widgets/form/|ext-3.0.0/pkgs/|ext-3.0.0/examples/key-feed-viewer/|ext-3.0.0/src/dd/|ext-3.0.0/examples/history/|GeoExt/trunk/tests/lib/GeoExt/data/|ext-3.0.0/examples/debug/|GeoExt/examples/|ext-3.0.0/src/util/core/|ext-3.0.0/examples/multiselect/|ext-3.0.0/src/adapter/|GeoExt/trunk/lib/GeoExt/state/|ext-3.0.0/examples/message-box/|ext-3.0.0/examples/layout-browser/|ext-3.0.0/examples/panel/|ext-3.0.0/src/widgets/tree/|ext-3.0.0/adapter/jquery/|ext-3.0.0/examples/desktop/|ext-3.0.0/examples/core/|ext-3.0.0/examples/shared/|ext-3.0.0/examples/state/" kind="src" path="js"/>
+	<classpathentry kind="src" path="js/archive"/>
+	<classpathentry excluding="src/locale/|examples/organizer/|src/core/|examples/dd/|src/widgets/menu/|examples/chart/|src/widgets/grid/|src/widgets/|examples/image-organizer/SWFUpload/|examples/tasks/|src/|adapter/prototype/|examples/grouptabs/|examples/desktop/js/|examples/grid/|examples/image-organizer/SWFUpload/plugins/|src/adapter/core/|examples/button/|examples/simple-widgets/|examples/menu/|examples/restful/|src/state/|src/widgets/tips/|examples/view/|src/core/core/|adapter/ext/|docs/output/|examples/resizable/|examples/feed-viewer/|examples/form/|examples/spinner/|examples/tasks/db/|src/widgets/chart/|examples/writer/|docs/resources/|examples/toolbar/|src/util/|examples/ux/|examples/locale/|examples/window/|examples/layout-browser/layouts/|src/widgets/list/|examples/direct/|examples/image-organizer/imgorg/|examples/tabs/|src/data/|docs/resources/prettify/|examples/portal/|src/direct/|examples/|src/widgets/layout/|adapter/yui/|examples/shared/extjs/|examples/forum/|examples/statusbar/|examples/tree/|src/data/core/|examples/slider/|src/widgets/form/|pkgs/|examples/key-feed-viewer/|src/dd/|examples/history/|examples/debug/|src/util/core/|examples/multiselect/|src/adapter/|examples/message-box/|examples/layout-browser/|examples/panel/|src/widgets/tree/|adapter/jquery/|examples/desktop/|examples/core/|examples/shared/|examples/state/" kind="src" path="js/ext-3.0.0"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/adapter/ext"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/adapter/jquery"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/adapter/prototype"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/adapter/yui"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/docs/output"/>
+	<classpathentry excluding="prettify/" kind="src" path="js/ext-3.0.0/docs/resources"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/docs/resources/prettify"/>
+	<classpathentry excluding="organizer/|dd/|chart/|image-organizer/SWFUpload/|tasks/|grouptabs/|desktop/js/|grid/|image-organizer/SWFUpload/plugins/|button/|simple-widgets/|menu/|restful/|view/|resizable/|feed-viewer/|form/|spinner/|tasks/db/|writer/|toolbar/|ux/|locale/|window/|layout-browser/layouts/|direct/|image-organizer/imgorg/|tabs/|portal/|shared/extjs/|forum/|statusbar/|tree/|slider/|key-feed-viewer/|history/|debug/|multiselect/|message-box/|layout-browser/|panel/|desktop/|core/|shared/|state/" kind="src" path="js/ext-3.0.0/examples"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/button"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/chart"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/core"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/dd"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/debug"/>
+	<classpathentry excluding="js/" kind="src" path="js/ext-3.0.0/examples/desktop"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/desktop/js"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/direct"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/feed-viewer"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/form"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/forum"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/grid"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/grouptabs"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/history"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/image-organizer/imgorg"/>
+	<classpathentry excluding="plugins/" kind="src" path="js/ext-3.0.0/examples/image-organizer/SWFUpload"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/image-organizer/SWFUpload/plugins"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/key-feed-viewer"/>
+	<classpathentry excluding="layouts/" kind="src" path="js/ext-3.0.0/examples/layout-browser"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/layout-browser/layouts"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/locale"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/menu"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/message-box"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/multiselect"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/organizer"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/panel"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/portal"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/resizable"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/restful"/>
+	<classpathentry excluding="extjs/" kind="src" path="js/ext-3.0.0/examples/shared"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/shared/extjs"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/simple-widgets"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/slider"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/spinner"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/state"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/statusbar"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/tabs"/>
+	<classpathentry excluding="db/" kind="src" path="js/ext-3.0.0/examples/tasks"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/tasks/db"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/toolbar"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/tree"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/ux"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/view"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/window"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/examples/writer"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/pkgs"/>
+	<classpathentry excluding="locale/|core/|widgets/menu/|widgets/grid/|widgets/|adapter/core/|state/|widgets/tips/|core/core/|widgets/chart/|util/|widgets/list/|data/|direct/|widgets/layout/|data/core/|widgets/form/|dd/|util/core/|adapter/|widgets/tree/" kind="src" path="js/ext-3.0.0/src"/>
+	<classpathentry excluding="core/" kind="src" path="js/ext-3.0.0/src/adapter"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/adapter/core"/>
+	<classpathentry excluding="core/" kind="src" path="js/ext-3.0.0/src/core"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/core/core"/>
+	<classpathentry excluding="core/" kind="src" path="js/ext-3.0.0/src/data"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/data/core"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/dd"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/direct"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/locale"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/state"/>
+	<classpathentry excluding="core/" kind="src" path="js/ext-3.0.0/src/util"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/util/core"/>
+	<classpathentry excluding="menu/|grid/|tips/|chart/|list/|layout/|form/|tree/" kind="src" path="js/ext-3.0.0/src/widgets"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/widgets/chart"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/widgets/form"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/widgets/grid"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/widgets/layout"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/widgets/list"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/widgets/menu"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/widgets/tips"/>
+	<classpathentry kind="src" path="js/ext-3.0.0/src/widgets/tree"/>
+	<classpathentry kind="src" path="js/GeoExt/examples"/>
+	<classpathentry kind="src" path="js/GeoExt/script"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/build"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/examples"/>
+	<classpathentry excluding="GeoExt/widgets/|GeoExt/widgets/tree/|GeoExt/widgets/grid/|GeoExt/|GeoExt/data/|overrides/|GeoExt/widgets/tips/|GeoExt/widgets/form/|GeoExt/plugins/|GeoExt/state/" kind="src" path="js/GeoExt/trunk/lib"/>
+	<classpathentry excluding="widgets/|widgets/tree/|widgets/grid/|data/|widgets/tips/|widgets/form/|plugins/|state/" kind="src" path="js/GeoExt/trunk/lib/GeoExt"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/lib/GeoExt/data"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/lib/GeoExt/plugins"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/lib/GeoExt/state"/>
+	<classpathentry excluding="tree/|grid/|tips/|form/" kind="src" path="js/GeoExt/trunk/lib/GeoExt/widgets"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/lib/GeoExt/widgets/form"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/lib/GeoExt/widgets/grid"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/lib/GeoExt/widgets/tips"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/lib/GeoExt/widgets/tree"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/lib/overrides"/>
+	<classpathentry excluding="lib/GeoExt/plugins/|lib/GeoExt/data/" kind="src" path="js/GeoExt/trunk/tests"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/tests/lib/GeoExt/data"/>
+	<classpathentry kind="src" path="js/GeoExt/trunk/tests/lib/GeoExt/plugins"/>
+	<classpathentry excluding="GeoExt/script/" kind="src" path="map/js"/>
+	<classpathentry kind="src" path="map/js/GeoExt/script"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

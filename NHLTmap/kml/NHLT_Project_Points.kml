@@ -1,0 +1,1716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+ <Document>
+  <name><![CDATA[NHLT_Project_Points]]></name>
+  <open>1</open>
+  <Snippet maxLines="0"><![CDATA[]]></Snippet>
+  <description><![CDATA[]]></description>
+  <Style id="INFO_POINTS">
+    <IconStyle>
+      <color>BFFFFFFF</color>
+      <scale>0.5</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/info.png</href>
+      </Icon>
+      <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+    </LabelStyle>
+    <BalloonStyle>
+      <text><![CDATA[OBJECTID = $[OBJECTID]<br />
+Type = $[Type]<br />
+Project = $[Project]<br />
+ID = $[ID]<br />
+Map = $[Map]<br />
+Description = $[Description]<br />
+OfficialAcres = $[OfficialAcres]<br />
+YearAcquired = $[YearAcquired]<br />
+County = $[County]<br />
+Jurisdiction = $[Jurisdiction]<br />
+PublicAccess = $[PublicAccess]<br />
+Shape_Length = $[Shape_Length]<br />
+Shape_Area = $[Shape_Area]<br />
+]]></text>
+    </BalloonStyle>
+  </Style>
+  <Folder>
+    <name>Information Points</name>
+    <open>0</open>
+      <Placemark>
+        <name><![CDATA[1]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>1</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Cherokee Park - East Marsh]]></value></Data>
+            <Data name="ID"><value>11</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects11.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This ~238-acre addition to the City of Madison Cherokee Marsh Conservation Park protects the large expanse of wetland on the east of North Sherman Avenue along the approach to the main entrance to the popular city conservation park.]]></value></Data>
+            <Data name="OfficialAcres"><value>237.9</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2008]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Burke]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>18263.3172775817</value></Data>
+            <Data name="Shape_Area"><value>10588166.3469906</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.354823616773,43.1562007729164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[2]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>2</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Cherokee Park - Fifth Addition]]></value></Data>
+            <Data name="ID"><value>16</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects16.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This ~23-acre addition to the City of Madison Cherokee Marsh Conservation Park separates planned residential development on the north side of the golf course at Cherokee Country Club from the popular city conservation park.  It protects 660 feet of shoreline on the Yahara River and will eventually include a biking/hiking trail linking Burning Wood Way with North Sherman Avenue]]></value></Data>
+            <Data name="OfficialAcres"><value>22.83</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2008]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Westport]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>6867.75763450603</value></Data>
+            <Data name="Shape_Area"><value>1214528.57655035</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3659483417215,43.1616412296276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[3]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>3</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Outhouse]]></value></Data>
+            <Data name="ID"><value>41</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects41.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 96-acre conservation easement preserves productive agricultural land.]]></value></Data>
+            <Data name="OfficialAcres"><value>95.62</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2007]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>9676.84193159133</value></Data>
+            <Data name="Shape_Area"><value>4152801.72456599</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3148456596422,42.9648084774681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[4]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>4</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Patrick Marsh - Paulson]]></value></Data>
+            <Data name="ID"><value>42</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects42.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 22.5-acre property protects part of the upland landscape on the south side of Patrick Marsh.]]></value></Data>
+            <Data name="OfficialAcres"><value>22.5</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2007]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Sun Prairie]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>4070.29935614268</value></Data>
+            <Data name="Shape_Area"><value>958717.980370679</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.1839954506408,43.1931257296621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[5]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>5</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Evenson's Woods]]></value></Data>
+            <Data name="ID"><value>14</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects14.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Thanks to the generosity of the Evenson family, this seven-acre beautifully wooded hillside (called 'Trillium Hill') was protected through the donation of land.  The Land Trust sold the property to raise funds for additional conservation work but retained a conservation easement on the property, ensuring that it will be permanently protected.]]></value></Data>
+            <Data name="OfficialAcres"><value>7</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1985]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Vermont]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>2487.91490409532</value></Data>
+            <Data name="Shape_Area"><value>394876.777729344</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.7835671352958,43.0544951066498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[6]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>6</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Zander]]></value></Data>
+            <Data name="ID"><value>71</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects71.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[These conservation easements protect a total of 215 acres of productive agricultural land in the Black Earth Creek Valley.]]></value></Data>
+            <Data name="OfficialAcres"><value>147.5</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2004]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Towns of Berry & Cross Plains]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>29205.0990111669</value></Data>
+            <Data name="Shape_Area"><value>9052829.89672228</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.7078270454537,43.1181330820279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[7]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>10</value></Data>
+            <Data name="Type"><value><![CDATA[Public Wildlife Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Schoepp]]></value></Data>
+            <Data name="ID"><value>49</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects49.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[The Land Trust purchased and, in partnership with the NRCS Wetland Reserve Program, restored 63 acres of wetlands along Garfoot Creek, a major tributary of Black Earth Creek.  The property was transferred to the Department of Natural Resources and is open to the public for hunting and other activities.]]></value></Data>
+            <Data name="OfficialAcres"><value>63</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2001]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Cross Plains]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>11421.2500740407</value></Data>
+            <Data name="Shape_Area"><value>2715811.691305</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.6757644290725,43.1056182712072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[8]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>11</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Sunnyside Seed Farm]]></value></Data>
+            <Data name="ID"><value>56</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects56.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[A collaborative project of Dane County, the Town of Middleton, and the Land Trust, this project brought 294 acres of land into Dane County ownership as part of the Black Earth Creek Natural Resource Area.  The property includes more than a half-mile of Black Earth Creek and extensive uplands with views of Blue Mounds.]]></value></Data>
+            <Data name="OfficialAcres"><value>73</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2004]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Middleton]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>28630.6712554056</value></Data>
+            <Data name="Shape_Area"><value>13265215.6425556</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.5885357893534,43.0955192711197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[9]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>12</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Hickory Hill]]></value></Data>
+            <Data name="ID"><value>25</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects25.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Thanks to the generosity of three landowners, the Land Trust purchased this 53-acre property at a bargain price and then gave the property to the Village of Cross Plains as an addition to the Village's system of conservancy parks.  The Land Trust retained a conservation easement on the property, ensuring that it would always remain open to the public in a natural state.]]></value></Data>
+            <Data name="OfficialAcres"><value>52.85</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2006]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Village of Cross Plains]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>7799.76568056905</value></Data>
+            <Data name="Shape_Area"><value>2361282.01174335</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.6528947244874,43.1198485651832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[10]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>13</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Thomas]]></value></Data>
+            <Data name="ID"><value>59</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects59.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This two-acre streambank easement protects a portion of a tributary of Token Creek.]]></value></Data>
+            <Data name="OfficialAcres"><value>1.8</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1993]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Burke]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>1395.30038662595</value></Data>
+            <Data name="Shape_Area"><value>81163.282226303</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3049712725854,43.1943883870872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[11]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>14</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Smith Streambank]]></value></Data>
+            <Data name="ID"><value>53</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects53.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This three-acre streambank easement protects a spring, pond, and 200-foot stretch of Token Creek.]]></value></Data>
+            <Data name="OfficialAcres"><value>3.1</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1996]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Windsor]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>1650.30737638078</value></Data>
+            <Data name="Shape_Area"><value>139037.654417618</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.2991607694527,43.1953004554497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[12]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>15</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Pederson Springs]]></value></Data>
+            <Data name="ID"><value>43</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects43.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 19-acre property protects a large spring that is an important water source for Token Creek.   The Land Trust transferred the property to Dane County Parks to ensure proper management of the property.]]></value></Data>
+            <Data name="OfficialAcres"><value>19</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2002]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Windsor]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>4487.73822032149</value></Data>
+            <Data name="Shape_Area"><value>801136.055005124</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3093691687526,43.1972828171041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[13]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>16</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[McLain]]></value></Data>
+            <Data name="ID"><value>36</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects36.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Thanks to the generosity of the landowner, this donated 13-acre conservation easement protects wetland, savanna, and agricultural land adjacent to Mud Lake on the Yahara River.]]></value></Data>
+            <Data name="OfficialAcres"><value>12.74</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1987]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[No (DNR may have access across a corner)]]></value></Data>
+            <Data name="Shape_Length"><value>3030.31137350353</value></Data>
+            <Data name="Shape_Area"><value>554092.70385458</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.2893932277216,42.9897514783974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[14]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>17</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Bolz Conservancy Park]]></value></Data>
+            <Data name="ID"><value>7</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects7.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Thanks to the generosity of the Bolz family this ten-acre hill top park protects sweeping views of Lake Mendota and the state capitol.  The Land Trust holds a conservation easement on the park to ensure that it will always remain open to the public as a natural area.]]></value></Data>
+            <Data name="OfficialAcres"><value>10</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2001]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Village of Waunakee]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>3308.26080216359</value></Data>
+            <Data name="Shape_Area"><value>434613.308839735</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.4444280604177,43.1741477092652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[15]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>18</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Everson]]></value></Data>
+            <Data name="ID"><value>15</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects15.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 68-acre conservation easement protects farmland and open space in the Lower Mud Lake Natural Resource Area between Lake Kegonsa and Lower Mud Lake.  The easement also reserves a corridor for the proposed Lower Yahara River bike and pedestrian trail that would one day link McFarland with points to the south.]]></value></Data>
+            <Data name="OfficialAcres"><value>67.48</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2007]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Yes on public trail right-of-way within CE]]></value></Data>
+            <Data name="Shape_Length"><value>9736.88488977536</value></Data>
+            <Data name="Shape_Area"><value>3370581.16072997</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.2710722770953,42.9866779981649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[16]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>19</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Patrick Marsh - Stern]]></value></Data>
+            <Data name="ID"><value>55</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects55.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 35-acre property protects wetland and savanna habitat on the south side of Patrick Marsh.]]></value></Data>
+            <Data name="OfficialAcres"><value>35</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2004]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Sun Prairie]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>5484.80982136754</value></Data>
+            <Data name="Shape_Area"><value>1501617.4529121</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.1936046895813,43.1937694894055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[17]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>20</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Patrick Marsh - ARG Matey]]></value></Data>
+            <Data name="ID"><value>5</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects5.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 23-acre property protects part of the upland landscape on the south side of Patrick Marsh.]]></value></Data>
+            <Data name="OfficialAcres"><value>22.56</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2005]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Sun Prairie]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>5784.3839284674</value></Data>
+            <Data name="Shape_Area"><value>1051125.60014746</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.1892875764522,43.1937204040793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[18]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>21</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Wilke Prairie Preserve]]></value></Data>
+            <Data name="ID"><value>67</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects67.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Thanks to the generosity of landowner Hazel Knudson, this 40-acre nature preserve, including prairie, wetland, and a tributary of Six Mile Creek, is open to the public north of the Village of Waunakee.]]></value></Data>
+            <Data name="OfficialAcres"><value>37.7</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1994]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Vienna]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>5347.00200442064</value></Data>
+            <Data name="Shape_Area"><value>1646494.99889458</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.4592153727965,43.208486472568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[19]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>22</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Whiteside]]></value></Data>
+            <Data name="ID"><value>65</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects65.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Naomi Whiteside generously donated a conservation easement on 17 acres to preserve woods and fields adjacent to county-owned land at Cherokee Marsh.]]></value></Data>
+            <Data name="OfficialAcres"><value>17</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1993]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Westport]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>5163.25550158424</value></Data>
+            <Data name="Shape_Area"><value>718449.346080852</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3799352918708,43.173654436627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[20]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>23</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Watts]]></value></Data>
+            <Data name="ID"><value>63</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects63.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Thanks to the generosity of the landowner, this donated 226-acre conservation easement co-held with the American Farmland Trust protects productive farmland, woods, and wetlands.  The donor, Dr. Alice Watts, left 115 acres of the property to the Land Trust in her will, and the proceeds from the sale of the property (permanently protected by the conservation easement) was invested in many Land Trust conservation projects, including Fish Lake/Lussier County Park.]]></value></Data>
+            <Data name="OfficialAcres"><value>115</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1986]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>21800.1984219821</value></Data>
+            <Data name="Shape_Area"><value>11176706.8375854</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3694373336781,42.9748083586769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[21]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>24</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Wally Bauman Woods]]></value></Data>
+            <Data name="ID"><value>62</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects62.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[The inaugural project of the Land Trust, it protects 3.4 acres of woodland on the bluffs of Lake Mendota.  The Land Trust purchased the property and transferred it to the City of Madison which then transferred it to the University of Wisconsin where it is now open to the public as part of the Lakeshore Nature Preserve.  The Land Trust retains a conservation easement over the property to ensure that it will never be developed.]]></value></Data>
+            <Data name="OfficialAcres"><value>3.4</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1984]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[City of Madison]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>1476.43395743609</value></Data>
+            <Data name="Shape_Area"><value>128269.039799092</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.4433500782517,43.0878081163462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[22]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>25</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Tierney Hillside]]></value></Data>
+            <Data name="ID"><value>60</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects60.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Thanks to the generosity of developer Don and Joanne Tierney, this five-acre conservation easement is part of the Bolz Conservancy Park project and places height limits on buildings to preserve the view of Lake Mendota and the state capitol from the Bolz Conservancy Park.]]></value></Data>
+            <Data name="OfficialAcres"><value>5</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2001]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Village of Waunakee]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>4322.157446328</value></Data>
+            <Data name="Shape_Area"><value>466809.310874348</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.444761524446,43.1730763567635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[23]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>26</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Southbridge]]></value></Data>
+            <Data name="ID"><value>54</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects54.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Part of the Bolz Conservancy Park project, this 13-acre conservation easement protects public park land and helps preserve the view from Bolz Conservancy Park.  This easement was generously donated by the Village of Waunakee.]]></value></Data>
+            <Data name="OfficialAcres"><value>12.7</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2001]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Village of Waunakee]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>4622.73905385293</value></Data>
+            <Data name="Shape_Area"><value>675437.814074203</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.445156050716,43.1713343726331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[24]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>27</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Sinaiko Addition to E-Way]]></value></Data>
+            <Data name="ID"><value>52</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects52.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 238-acre project added 21 acres to the Nine Springs E-Way for the Capital City State Trail, created a Town of Dunn park, and preserved 160 acres of productive farm land under a conservation easement as the Town of Dunn's first Rural Preservation Program project.]]></value></Data>
+            <Data name="OfficialAcres"><value>75.3</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1997]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Blooming Grove]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>7815.97594375051</value></Data>
+            <Data name="Shape_Area"><value>2289543.02907798</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3518635412875,43.0197929346203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[25]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>28</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Schmidt's Orchard]]></value></Data>
+            <Data name="ID"><value>46</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects46.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[The Land Trust and the Friends of Dane County Parks purchased this 24-acre parcel as an addition to the environmental corridor that runs south of Madison.  The property was transferred to Dane County for management as part of the E-Way.  The Capital City State Trail runs through the property.]]></value></Data>
+            <Data name="OfficialAcres"><value>24.4</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1988]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[City of Fitchburg]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>4778.25264885272</value></Data>
+            <Data name="Shape_Area"><value>1042034.55176671</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.4587195082846,43.0204174270443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[26]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>29</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Cherokee Park - Potthast]]></value></Data>
+            <Data name="ID"><value>44</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects44.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[The Land Trust purchased this 21-acre wetland parcel and transferred it to the City of Madison as an addition to the City's Cherokee Marsh Conservation Park.]]></value></Data>
+            <Data name="OfficialAcres"><value>21</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1991]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[City of Madison]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>4394.67855002451</value></Data>
+            <Data name="Shape_Area"><value>965844.414891684</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.4003756424352,43.1456784936388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[27]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>30</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Lower Eagle Heights Woods]]></value></Data>
+            <Data name="ID"><value>34</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects34.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This eight-acre conservation easement protects wooded land along Lake Mendota that is park of the University of Wisconsin's Lakeshore Nature Preserve.  This easement was generously donated to the Land Trust as part of the adjacent Wally Bauman Woods project.]]></value></Data>
+            <Data name="OfficialAcres"><value>8</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1984]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[City of Madison]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>2421.42120062644</value></Data>
+            <Data name="Shape_Area"><value>320005.829318406</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.4410992242953,43.0882388833083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[28]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>31</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Hayward-D'Alessio]]></value></Data>
+            <Data name="ID"><value>24</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects24.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Thanks to the generosity of landowners Julie Hayward and Donn D'Alessio, this 77-acre diverse property, including oak savanna, wetland, prairie, and a portion of German Valley Creek, is protected by a conservation easement.]]></value></Data>
+            <Data name="OfficialAcres"><value>77</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1995]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Blue Mounds]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>7861.1041084955</value></Data>
+            <Data name="Shape_Area"><value>3234528.19750544</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.814191860218,42.9467301085937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[29]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>32</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Fish Lake]]></value></Data>
+            <Data name="ID"><value>17</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects17.jpg]]></value></Data>
+            <Data name="Description"><value>-NULL-</value></Data>
+            <Data name="OfficialAcres"><value>140</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1999-2000-2001]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Roxbury]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>14976.1620964355</value></Data>
+            <Data name="Shape_Area"><value>5803963.21943017</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.642030792266,43.2881827614294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[30]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>33</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Ebeneezer Brigham]]></value></Data>
+            <Data name="ID"><value>12</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects12.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 26-acre conservation easement protects a significant part of the setting for Cave of the Mounds National Natural Landmark, an important local business.]]></value></Data>
+            <Data name="OfficialAcres"><value>26</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2004]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Blue Mounds]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>6577.90394321466</value></Data>
+            <Data name="Shape_Area"><value>1158998.31094043</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.8142936822223,43.0154714103397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[31]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>34</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Cell]]></value></Data>
+            <Data name="ID"><value>10</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects10.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 49-acre conservation easement protects the headwaters of Story Creek which flows through Tipperary Marsh and the Brooklyn Wildlife Area to the south.  The easement was generously donated by landowner Charles Cell to protect his 'Storybrook Farm' which features several large springs and the oldest brick structure in the town of Oregon.]]></value></Data>
+            <Data name="OfficialAcres"><value>49</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1993]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Oregon]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>6190.59601475546</value></Data>
+            <Data name="Shape_Area"><value>2055525.83390509</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.4691294003529,42.9026878070714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[32]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>35</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Schneider East]]></value></Data>
+            <Data name="ID"><value>47</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects47.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 60-acre conservation easement preserves productive agricultural land.]]></value></Data>
+            <Data name="OfficialAcres"><value>60</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2005]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>7246.55840484673</value></Data>
+            <Data name="Shape_Area"><value>2588490.93261904</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3100223053708,42.9648007508325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[33]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>36</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Schneider West]]></value></Data>
+            <Data name="ID"><value>48</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects48.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 106-acre conservation easement preserves productive agricultural land.]]></value></Data>
+            <Data name="OfficialAcres"><value>106</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2005]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>12047.5041368442</value></Data>
+            <Data name="Shape_Area"><value>4604743.40816838</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3218641910428,42.9642036334992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[34]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>37</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[JMS]]></value></Data>
+            <Data name="ID"><value>27</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects27.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 162-acre conservation easement preserves productive agricultural land.]]></value></Data>
+            <Data name="OfficialAcres"><value>162</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2005]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>14436.3570334596</value></Data>
+            <Data name="Shape_Area"><value>7604657.17069954</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3541583550499,43.0069859687666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[35]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>38</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Gustrowsky NE]]></value></Data>
+            <Data name="ID"><value>22</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects22.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 150-acre conservation easement preserves productive agricultural land as well as wetland and woodland.]]></value></Data>
+            <Data name="OfficialAcres"><value>150</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2005]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>17351.8807668988</value></Data>
+            <Data name="Shape_Area"><value>6678201.247008</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3140498282969,42.9753311818294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[36]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>39</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Swalheim]]></value></Data>
+            <Data name="ID"><value>58</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects58.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 130-acre conservation easement preserves productive agricultural land.]]></value></Data>
+            <Data name="OfficialAcres"><value>130</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2002]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>14248.0863700388</value></Data>
+            <Data name="Shape_Area"><value>5718928.2512192</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.2503472712694,43.0143043244197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[37]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>40</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Franklin]]></value></Data>
+            <Data name="ID"><value>18</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects18.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 46-acre conservation easement preserves wildlife habitat and hunting land.]]></value></Data>
+            <Data name="OfficialAcres"><value>46</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2002]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>6370.66735264546</value></Data>
+            <Data name="Shape_Area"><value>1990621.19465138</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3102884853193,42.9959391207189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[38]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>41</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Jacob]]></value></Data>
+            <Data name="ID"><value>26</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects26.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 198-acre conservation easement protects productive agricultural land, 30 acres of wetland, 20 acres of woodland, and several archeological sites.]]></value></Data>
+            <Data name="OfficialAcres"><value>198</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1999]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>13172.3313092776</value></Data>
+            <Data name="Shape_Area"><value>8641752.40586464</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.2572308258729,43.0141989819919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[39]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>42</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Hawkinson]]></value></Data>
+            <Data name="ID"><value>23</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects23.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 80-acre conservation easement preserves productive agricultural land and a 15-acre woodland.]]></value></Data>
+            <Data name="OfficialAcres"><value>80</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2000]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>7927.662054772</value></Data>
+            <Data name="Shape_Area"><value>3479462.52857618</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3018041815426,42.9357226764167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[40]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>43</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Lalor]]></value></Data>
+            <Data name="ID"><value>31</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects31.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 150- acre conservation easement preserves productive agricultural land as well as 20 acres of wetland and 26 acres of woodland.]]></value></Data>
+            <Data name="OfficialAcres"><value>150</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1999]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>14318.9411025907</value></Data>
+            <Data name="Shape_Area"><value>6346175.18919253</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3639502465576,42.996637510111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[41]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>44</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Sinaiko #1]]></value></Data>
+            <Data name="ID"><value>51</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects51.jpg]]></value></Data>
+            <Data name="Description"><value>-NULL-</value></Data>
+            <Data name="OfficialAcres"><value>3</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1997]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>1738.31079148268</value></Data>
+            <Data name="Shape_Area"><value>131016.33257749</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3453939886262,43.0126203217963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[42]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>45</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Sinaiko #4]]></value></Data>
+            <Data name="ID"><value>51</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects51.jpg]]></value></Data>
+            <Data name="Description"><value>-NULL-</value></Data>
+            <Data name="OfficialAcres"><value>163.2</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1997]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>2977.60267660741</value></Data>
+            <Data name="Shape_Area"><value>408794.482044819</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3343462052173,43.01686805151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[43]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>46</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Sinaiko #2 and #3]]></value></Data>
+            <Data name="ID"><value>51</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects51.jpg]]></value></Data>
+            <Data name="Description"><value>-NULL-</value></Data>
+            <Data name="OfficialAcres"><value>163.2</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[1997]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>10478.4501464625</value></Data>
+            <Data name="Shape_Area"><value>6563531.65930987</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3403815079438,43.0149506252972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[44]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>47</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Wick]]></value></Data>
+            <Data name="ID"><value>66</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects66.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 51-acre conservation easement preserves productive agricultural land.]]></value></Data>
+            <Data name="OfficialAcres"><value>51</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2000]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>6102.32681011261</value></Data>
+            <Data name="Shape_Area"><value>2175966.74524895</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3431914771212,43.0087856521789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[45]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>48</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Gustrowsky]]></value></Data>
+            <Data name="ID"><value>21</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects21.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 233-acre conservation easement preserves productive agricultural land.]]></value></Data>
+            <Data name="OfficialAcres"><value>233</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2000]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>20025.7623684808</value></Data>
+            <Data name="Shape_Area"><value>9965199.23052938</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3354200815285,42.9656898183416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[46]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>49</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Kramper]]></value></Data>
+            <Data name="ID"><value>29</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects29.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 324-acre conservation easement preserves productive agricultural land and a wetland.]]></value></Data>
+            <Data name="OfficialAcres"><value>324</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2001]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>18195.9535732281</value></Data>
+            <Data name="Shape_Area"><value>14670066.1167213</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.2981613986642,42.9798448010998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[47]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>50</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Bruce]]></value></Data>
+            <Data name="ID"><value>8</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects8.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 143-acre conservation easement preserves productive agricultural land.]]></value></Data>
+            <Data name="OfficialAcres"><value>143</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2001]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>10306.5363777275</value></Data>
+            <Data name="Shape_Area"><value>6358367.96647264</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3473402720925,42.9720607524153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[48]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>51</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Ace]]></value></Data>
+            <Data name="ID"><value>4</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects4.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 254-acre conservation easement preserves productive agricultural land.]]></value></Data>
+            <Data name="OfficialAcres"><value>254</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2001]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>19272.1403649058</value></Data>
+            <Data name="Shape_Area"><value>11247659.0696011</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3009575062765,42.9543401866222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[49]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>52</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Graber]]></value></Data>
+            <Data name="ID"><value>20</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects20.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 64-acre conservation easement preserves wildlife habitat and hunting land, including approximately 1,900 feet of frontage on the Yahara River.]]></value></Data>
+            <Data name="OfficialAcres"><value>64</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2003]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>17516.5115343416</value></Data>
+            <Data name="Shape_Area"><value>2859203.94568085</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.2819585727476,42.9794281632255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[50]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>53</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Ledin]]></value></Data>
+            <Data name="ID"><value>32</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects32.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 66-acre conservation easement protects wildlife habitat.]]></value></Data>
+            <Data name="OfficialAcres"><value>66.3</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2004]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>7910.34464389001</value></Data>
+            <Data name="Shape_Area"><value>2812409.33926437</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3633692495515,43.0080909661362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[51]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>54</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Yngsdall]]></value></Data>
+            <Data name="ID"><value>69</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects69.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Assisted the Town of Windsor in purchasing 17.3 acre addition to the Town's Token Creek Conservancy by obtaining state and county grants for matching funds.]]></value></Data>
+            <Data name="OfficialAcres"><value>17.3</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2007]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Windsor]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>4796.80840187165</value></Data>
+            <Data name="Shape_Area"><value>757814.714864382</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.2969925805888,43.1966999000283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[52]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>55</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Roark]]></value></Data>
+            <Data name="ID"><value>45</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects45.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 21-acre conservation easement protects approximately 4000 feet of undeveloped shoreline, including important fish habitat, on Lake Wisconsin in Columbia County.]]></value></Data>
+            <Data name="OfficialAcres"><value>21.2</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2004]]></value></Data>
+            <Data name="County"><value><![CDATA[Columbia]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[West Point]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>6585.7374838208</value></Data>
+            <Data name="Shape_Area"><value>993767.654143562</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.6444720447079,43.3554641633802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[53]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>56</value></Data>
+            <Data name="Type"><value><![CDATA[Public Wildlife Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[7A Farms]]></value></Data>
+            <Data name="ID"><value>3</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects3.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 869.7 acre acquisition was made in partnership with Dane County, to protect and restore wildlife habitat linking Walking Iron County Park with Mazomanie Wildlife Area, and also permanently protect valuable farmland.  Transferred to Dane County 2009.]]></value></Data>
+            <Data name="OfficialAcres"><value>869.7</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2008]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Mazomanie]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>53927.3252036343</value></Data>
+            <Data name="Shape_Area"><value>46586083.1254166</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.8056334754341,43.2000637372319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[54]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>57</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Bachner]]></value></Data>
+            <Data name="ID"><value>6</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects6.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Thanks to the generosity of the landowner, this 79-acre conservation easement protects an agricultural and forested landscape just outside of Governor Dodge State Park.]]></value></Data>
+            <Data name="OfficialAcres"><value>79</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2007]]></value></Data>
+            <Data name="County"><value><![CDATA[Iowa]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dodgeville]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>7982.45804546193</value></Data>
+            <Data name="Shape_Area"><value>3537630.09377866</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -90.0804241555166,43.0145446086725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[55]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>59</value></Data>
+            <Data name="Type"><value><![CDATA[Working Farm]]></value></Data>
+            <Data name="Project"><value><![CDATA[Trewartha]]></value></Data>
+            <Data name="ID"><value>61</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects61.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 169-acre conservation easement, generously donated by the landowner, preserves productive farmland, savanna and prairie remnants, and important grassland bird habitat north of Dodgeville.]]></value></Data>
+            <Data name="OfficialAcres"><value>169</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2003]]></value></Data>
+            <Data name="County"><value><![CDATA[Iowa]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Towns of Highland & Dodgeville]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>12454.0592076394</value></Data>
+            <Data name="Shape_Area"><value>7796971.70588605</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -90.2339216645867,43.061855747968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[56]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>60</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Glass]]></value></Data>
+            <Data name="ID"><value>19</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects19.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[Thanks to the generosity of the landowners, this 290-acre conservation easement protects a forested ridge and valley landscape along Sneed Creek.]]></value></Data>
+            <Data name="OfficialAcres"><value>290</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2007]]></value></Data>
+            <Data name="County"><value><![CDATA[Iowa]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Wyoming]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>20172.0235117413</value></Data>
+            <Data name="Shape_Area"><value>12597221.9282148</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -90.1475232168554,43.0876419196689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[57]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>61</value></Data>
+            <Data name="Type"><value><![CDATA[Public Wildlife Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Lakin Trust/Avon Bottoms]]></value></Data>
+            <Data name="ID"><value>30</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects30.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 349-acre property is being restored through the NRCS Wetland Reserve Program.  When the restoration is complete, the Land Trust will transfer it to the Department of Natural Resources for public hunting, hiking, and other activities as part of the Avon Bottoms Wildlife Area in Rock County.]]></value></Data>
+            <Data name="OfficialAcres"><value>348.53</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2006]]></value></Data>
+            <Data name="County"><value><![CDATA[Rock]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Avon]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>16044.9316510624</value></Data>
+            <Data name="Shape_Area"><value>15227615.9846404</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.2946380227746,42.5260544039367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[58]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>62</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Louis' Bluff]]></value></Data>
+            <Data name="ID"><value>33</value></Data>
+            <Data name="Map"><value><![CDATA[\\server\GIS\Projects\NHLT all projects33.jpg]]></value></Data>
+            <Data name="Description"><value><![CDATA[This 133-acre conservation easement preserves a Dells landmark, Louis' Bluff, and more than one mile of undeveloped shoreline on the Wisconsin River.]]></value></Data>
+            <Data name="OfficialAcres"><value>133.5</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2007]]></value></Data>
+            <Data name="County"><value><![CDATA[Juneau]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Lyndon]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>15152.6351601264</value></Data>
+            <Data name="Shape_Area"><value>6656140.98672576</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.8284033526664,43.6915282437401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[59]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>-NULL-</value></Data>
+            <Data name="Type"><value><![CDATA[Public Park or Natural Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Carpenter]]></value></Data>
+            <Data name="ID"><value>-NULL-</value></Data>
+            <Data name="Map"><value>-NULL-</value></Data>
+            <Data name="Description"><value><![CDATA[This 73.3 acre property protects the eastern flank of the Westport Drumlin, a very high quality dry prairie and oak savanna remnant that is home to the state's largest population of the federally-threatened and state-endangered prairie bush-clover (Lespedeza leptostachya) and other rare species.]]></value></Data>
+            <Data name="OfficialAcres"><value>73</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2009]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Westport]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>7520.82593102219</value></Data>
+            <Data name="Shape_Area"><value>3213511.9730527</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3864449227625,43.1828253881396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[60]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>-NULL-</value></Data>
+            <Data name="Type"><value><![CDATA[Public Wildlife Area]]></value></Data>
+            <Data name="Project"><value><![CDATA[Wildt]]></value></Data>
+            <Data name="ID"><value>-NULL-</value></Data>
+            <Data name="Map"><value>-NULL-</value></Data>
+            <Data name="Description"><value><![CDATA[This 40.2 acre parcel of land fills a hole in the 3,500-acre block of conservation land ' the largest in Dane County ' that stretches 3.5 miles along the Wisconsin River and encompasses state and county land open to the public for hiking, hunting, and other nature-based recreation opportunities.  It is adjacent to the 7-A Farms acquisition at Walking Iron Natural Resource Area we helped Dane County protect in 2008.]]></value></Data>
+            <Data name="OfficialAcres"><value>40</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2009]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Mazomanie]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[Y]]></value></Data>
+            <Data name="Shape_Length"><value>5444.20365484696</value></Data>
+            <Data name="Shape_Area"><value>1788104.32770985</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.8265857797289,43.2002484956914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[61]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>-NULL-</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Madison Retreiver Club]]></value></Data>
+            <Data name="ID"><value>-NULL-</value></Data>
+            <Data name="Map"><value>-NULL-</value></Data>
+            <Data name="Description"><value><![CDATA[This 20.5 acre conservation easement prohibits residential development on the shore of Hook Lake, a state natural area and wildlife area.]]></value></Data>
+            <Data name="OfficialAcres"><value>20.5</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2009]]></value></Data>
+            <Data name="County"><value><![CDATA[Dane]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dunn]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>3915.43991640996</value></Data>
+            <Data name="Shape_Area"><value>886329.055479484</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.3302745926496,42.9438916349793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[62]]></name>
+        <Snippet maxLines="0"></Snippet>
+        <styleUrl>#INFO_POINTS</styleUrl>
+         <ExtendedData>
+            <Data name="OBJECTID"><value>-NULL-</value></Data>
+            <Data name="Type"><value><![CDATA[Scenic or Streambank Easement]]></value></Data>
+            <Data name="Project"><value><![CDATA[Merrill]]></value></Data>
+            <Data name="ID"><value>-NULL-</value></Data>
+            <Data name="Map"><value>-NULL-</value></Data>
+            <Data name="Description"><value><![CDATA[In family hands for 80 years, this 19.5 acre bluff rises 160 feet above a heavily-used section of the Wisconsin River.  Development on 'Wildcate Bluff' is permanently restricted to protect its beauty.  The landowners sold the conservation easement at a generous discount.]]></value></Data>
+            <Data name="OfficialAcres"><value>19.54</value></Data>
+            <Data name="YearAcquired"><value><![CDATA[2009]]></value></Data>
+            <Data name="County"><value><![CDATA[Columbia]]></value></Data>
+            <Data name="Jurisdiction"><value><![CDATA[Town of Dekorra]]></value></Data>
+            <Data name="PublicAccess"><value><![CDATA[N]]></value></Data>
+            <Data name="Shape_Length"><value>9131.72589863584</value></Data>
+            <Data name="Shape_Area"><value>913130.652300896</value></Data>
+         </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>
+            -89.5170364483291,43.4223691872047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+  </Folder>
+ </Document>
+</kml>
