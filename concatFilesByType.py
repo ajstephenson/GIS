@@ -39,8 +39,15 @@ for ft in filetypes:
 						# don't print any other header lines
 						else:
 							continue
-					# remove extraneous text from and pre-pend the lakeid to each data line
 					else:
+						try:
+							# remove full species names, leaving only their species codes (codes and names are separated by a hyphen, like this: YP-YELLOWPERCH)
+							hyphenIndex = line.index('-')
+							nextCommaIndex = line.index(',',hyphenIndex)
+							line = line[:hyphenIndex] + line[nextCommaIndex:]
+						except ValueError:
+							pass
+						# remove extraneous text from and pre-pend the lakeid to each data line
 						outfile.write(lakeid + "," + line.replace("true","1").replace("TRUE","1").replace("false","0").replace("FALSE","0").replace(" - Seine","").replace(" - Crayfish Trap","").replace(" - Shocker","").replace(" - Fyke Net","").replace(" - Trammel Net","").replace(" - Gill Net","").replace(" - Crayfish Trap","").replace(" - Minnow Trap","").replace("AL - ","").replace("BM - ","").replace("CB - ","").replace("CR - ","").replace("SP - ","").replace("TB - ","").replace("TR - ","").replace("ME - ","").replace("MO - ","").replace("WI - ","").replace("FI - ","").replace("KE - ","").replace("WA - ","").replace(" - Scale","").replace(" - Kept","").replace(" - Stomach","").replace(".,",","))
 				outfile.write("\n")
 			infile.close()
