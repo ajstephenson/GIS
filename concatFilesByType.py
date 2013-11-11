@@ -48,7 +48,7 @@ for ft in filetypes:
 						except ValueError:
 							pass
 						# remove extraneous text from and pre-pend the lakeid to each data line
-						outfile.write(lakeid + "," + line.replace("true","1").replace("TRUE","1").replace("false","0").replace("FALSE","0").replace(" - Seine","").replace(" - Crayfish Trap","").replace(" - Shocker","").replace(" - Fyke Net","").replace(" - Trammel Net","").replace(" - Gill Net","").replace(" - Crayfish Trap","").replace(" - Minnow Trap","").replace("AL - ","").replace("BM - ","").replace("CB - ","").replace("CR - ","").replace("SP - ","").replace("TB - ","").replace("TR - ","").replace("ME - ","").replace("MO - ","").replace("WI - ","").replace("FI - ","").replace("KE - ","").replace("WA - ","").replace(" - Scale","").replace(" - Kept","").replace(" - Stomach","").replace(".,",","))
+						outfile.write(lakeid + "," + line.replace("true","1").replace("TRUE","1").replace("false","0").replace("FALSE","0").replace(" - Seine","").replace(" - Crayfish Trap","").replace(" - Shocker","").replace(" - Fyke Net","").replace(" - Trammel Net","").replace(" - Gill Net","").replace(" - Crayfish Trap","").replace(" - Minnow Trap","").replace("AL - ","").replace("BM - ","").replace("CB - ","").replace("CR - ","").replace("SP - ","").replace("TB - ","").replace("TR - ","").replace("ME - ","").replace("MO - ","").replace("WI - ","").replace("FI - ","").replace("KE - ","").replace("WA - ","").replace(" - Scale","").replace(" - Kept","").replace(" - Stomach","").replace(".,",",").replace(" ,",","))
 				outfile.write("\n")
 			infile.close()
 		filetype = ft['filename'].replace("all","").replace(".txt","").upper()
